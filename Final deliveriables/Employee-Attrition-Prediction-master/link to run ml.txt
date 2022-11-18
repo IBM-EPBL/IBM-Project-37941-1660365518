@@ -1,0 +1,3 @@
+ink to past in url in chrome to access the heroku ML app deployment
+
+https://employee-attrition-pred.herokuapp.com/
